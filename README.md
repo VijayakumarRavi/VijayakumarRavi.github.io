@@ -1,7 +1,7 @@
 Startpage
 ========
 
-### Live Demo: <a href="http://BeakBryno7.github.io/startpage/">Demo</a>
+### Live Demo: <a href="https://vijayakumarravi.github.io/">Demo</a>
 
 ### Default Home
 <img src="home.jpg" alt="Home" width="100%"/>
